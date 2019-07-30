@@ -1,0 +1,2 @@
+# NeuroAI
+Tryna teach things. 
